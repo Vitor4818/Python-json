@@ -1,0 +1,12 @@
+[
+   {
+      "nome": "Aveia em flocos",
+      "preco": 3.8,
+      "quantidade": 30
+   },
+   {
+      "nome": "Coca-cola zero",
+      "preco": 5.0,
+      "quantidade": 10
+   }
+]
